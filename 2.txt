@@ -1,1 +1,1 @@
-This is version 2 file of master
+This is version 2 file of master includes new feature
